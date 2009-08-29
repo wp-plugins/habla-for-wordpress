@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Hab.la for WordPress
-Plugin URI: http://www.jamesdimick.com/creations/habla-for-wordpress/
+Plugin URI: http://www.jamesdimick.com/creations/olark-for-wordpress/
 Description: A plugin that allows website authors to easily place a <a href="http://www.hab.la/">Hab.la</a> live help widget on their WordPress website.
 Author: James Dimick
 Author URI: http://www.jamesdimick.com/
